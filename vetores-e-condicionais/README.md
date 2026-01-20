@@ -1,0 +1,1 @@
+Atividade Senac-RS, Programação Estruturada em Portugol, estruturas de repetição + decisão
